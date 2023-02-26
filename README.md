@@ -1,4 +1,5 @@
-### Hi there 👋
+### Junior Python Developer
+Interested in Designing and Building Intuitive Solutions
 
 <!--
 **jnphr/jnphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
