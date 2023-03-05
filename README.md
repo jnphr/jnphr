@@ -1,5 +1,5 @@
 ### Software Design and Development
-A business analyst and software designer, interested in designing and building intuitive solutions
+A business analyst and software designer, interested in designing and building intuitive solutions.
 
 <!--
 **jnphr/jnphr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
